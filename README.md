@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiyannie7
-- 👀 I’m interested in native mobile development and spent 1 and half years learning and creating.
+- 👀 I’m interested in native mobile development and spent 1 and half years learning and developing simple apps in my studies.
 
 
 <!---
